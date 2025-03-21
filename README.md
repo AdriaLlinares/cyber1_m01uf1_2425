@@ -71,6 +71,6 @@ margin:0;
 [https://enti.cat](https://enti.cat)
 
 ## Imagenes
-[!LOGO](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCNGHja6ta6mvwwo20H1Fsfg&psig=AOvVaw0DxJaUWseml2U8CzfpSoE7&ust=1742649807086000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJC0mu6im4wDFQAAAAAdAAAAABAE)
+![LOGO](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCNGHja6ta6mvwwo20H1Fsfg&psig=AOvVaw0DxJaUWseml2U8CzfpSoE7&ust=1742649807086000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJC0mu6im4wDFQAAAAAdAAAAABAE)
 
 
