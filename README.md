@@ -73,4 +73,8 @@ margin:0;
 ## Imagenes
 ![LOGO](https://enti.cat/wp-content/uploads/2022/10/Captura-de-pantalla-2022-10-25-a-las-12.02.30.png)
 
-
+## Listas de tareas
+- [x] Hacer script...
+- [] Editar base de datos
+- [] Configurar servidor
+- [] ...
