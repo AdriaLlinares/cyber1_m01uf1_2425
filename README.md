@@ -37,3 +37,13 @@ Pero tamien...
 3. Tercero
 4. Cuarto
 
+## Codigo 
+
+Esto es javascript `console.log("hola")`
+
+```css
+body{
+margin:0;
+}
+```
+
