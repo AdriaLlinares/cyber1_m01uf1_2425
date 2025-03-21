@@ -50,15 +50,15 @@ margin:0;
 
 > [!NOTE]
 > Es una nota
->
+
 > [!TIP]
 > Esto es un resaltado
->
+
 > [!WARNING]
 > Cuidado que algo puede salir mal
->
+
 > [!IMPORTANT]
 > Ojito no te dejes el **WHERE** en **DELETE FROM**
->
+
 > [!CAUTION]
 > Si te equvicas te jodes
