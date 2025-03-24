@@ -2,7 +2,7 @@
 Ejercicios de clase de Sistemas (M01-UF1) de Cyberseguridad
 Sistemas de Cyberseguridad (2024-2025)
 
-## Primera parte del ejercicio
+## Primera parte del ejercicio[^1]
 
 Esto es un ejemplo de parrafo en markdown
 
@@ -80,7 +80,7 @@ margin:0;
 - [ ] ...
 
 
-Esto es un texto con una referencia[^1].
+Esto es un texto con una referencia al primer ejercicio.
 
 [^1]: Esta es la explicación o referencia de la nota al pie.
 
