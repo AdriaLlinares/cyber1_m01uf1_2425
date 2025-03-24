@@ -78,3 +78,9 @@ margin:0;
 - [ ] Editar base de datos
 - [ ] Configurar servidor
 - [ ] ...
+
+
+Esto es un texto con una referencia[^1].
+
+[^1]: Esta es la explicación o referencia de la nota al pie.
+
